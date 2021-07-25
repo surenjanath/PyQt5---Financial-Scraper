@@ -17,9 +17,13 @@ This app created to view financial data given a search query of Nasdaq codes:
   
   ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/main/Images/Full.png?raw=true)
   
-   Search App
+   Search 
   
   ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/main/Images/Search.png?raw=true)
+     
+   Random Search 
+  
+  ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/main/Images/RandomSearch.png?raw=true)
   
 ## Installation
 
