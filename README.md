@@ -30,6 +30,17 @@ To convert ui to py
 pyuic5 -x [ui file].ui -o [ui].py
 ```
 ## To convert .py to .exe
+List of things to do before converting file to exe : 
+- Convert ui to py
+
+add in these lines to main.py:
+- import UI library 
+in the main class WelcomeScreen under init function : self.setupUi(self)
+- pass Ui_MainWindow to class WelcomeScreen
+- delete self.loadUi()
+
+then do the following : 
+
 Install pyinstaller 
 ```pip install pyinstaller```
 
