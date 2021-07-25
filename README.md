@@ -7,6 +7,10 @@ This app created to view financial data given a search query of Nasdaq codes:
 - You can clone it and use it at your own discretion
 - Please [open an issue](https://github.com/surenjanath/PyQt5_Financial_Scraper/issues/new) if anything is missing or unclear in this
   documentation.
+  
+  Direct Link to test exe file 
+  [Pyqt5 - Financial Scraper](https://drive.google.com/file/u/1/d/1Dy0U3XC8GMZRxI4fmsnV04IdjwOem2oS/view?usp=sharing)
+  
   Pictures of GUI
   
   Welcome screen
@@ -75,5 +79,6 @@ pyinstaller --onefile --windowed --icon=app.ico main.py
 - If it freezes , check your internet connection
 - If lags , give it a few seconds.
 
-## Resources
+## Video Sample
+[![Watch the video](https://img.youtube.com/vi/gXHu0Qjavzw/hqdefault.jpg)](https://youtu.be/gXHu0Qjavzw)
 
