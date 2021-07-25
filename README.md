@@ -13,27 +13,24 @@
 In order to use this to it's full potential, use pyqt5 and python 3.9.6
 Using pyqt5-tools designer in cmd to execute the pyqt5 designer application to edit the UI file
 If you're looking at the code then it means that you're good at using python .: edit away.
-I've convert .py to .exe in the [folder here](https://github.com/PyQt5---Financial-Scraper/issues/new)
 
-
+To execute program just type the following in cmd :
 ```
 python main.py
-
 ```
+NB : Must have pyqt5 installed 
 
-Alternatively, to run designer ` pyqt5-tools designer`:
+Alternatively, to run designer just type ` pyqt5-tools designer` in cmd.
 
 To convert ui to py 
 
 ```
 pyuic5 -x [ui file].ui -o [ui].py
-
 ```
-convert .py to .exe
+To convert .py to .exe
 
 ```
 pyinstaller --onefile --windowed --icon=app.ico [filename main].py
-
 ```
 
 ## Troubleshooting & debugging
