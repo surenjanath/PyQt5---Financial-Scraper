@@ -8,11 +8,11 @@ This app created to view financial data given a search query of Nasdaq codes:
 - Please [open an issue](https://github.com/surenjanath/PyQt5_Financial_Scraper/issues/new) if anything is missing or unclear in this
   documentation.
   
-  ##Direct Link to test exe file 
+  ## Direct Link to test exe file 
   
   Link : [Pyqt5 - Financial Scraper](https://drive.google.com/file/u/1/d/1Dy0U3XC8GMZRxI4fmsnV04IdjwOem2oS/view?usp=sharing)
-  
-  ## Pictures of GUI
+ 
+ ## Pictures of GUI
   
   Welcome screen
   
