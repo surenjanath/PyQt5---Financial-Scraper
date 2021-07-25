@@ -1,8 +1,8 @@
-# PyQt5 - Financial Scraper! 🚀
+# PyQt5 - Financial Scraper! 
 
-🚀 This app created to view financial data given a search query of Nasdaq codes:
+This app created to view financial data given a search query of Nasdaq codes:
 
-## Links
+## Start
 
 - You can clone it and use it at your own discretion
 - Please [open an issue](https://github.com/surenjanath/PyQt5_Financial_Scraper/issues/new) if anything is missing or unclear in this
