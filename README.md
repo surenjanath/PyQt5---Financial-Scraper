@@ -33,7 +33,7 @@ pyuic5 -x [ui file].ui -o [ui].py
 Install pyinstaller 
 ```pip install pyinstaller```
 
-Then navigate to [This folder](https://github.com/surenjanath/PyQt5_Financial_Scraper/Convert_to_EXE/)
+Then navigate to [This folder](https://github.com/surenjanath/PyQt5_Financial_Scraper/Convert_to_EXE)
 and open cmd .
 Run the following code : 
 
