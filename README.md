@@ -11,8 +11,16 @@ This app created to view financial data given a search query of Nasdaq codes:
   
   Welcome screen
   
-  ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/Images/Full.png?raw=true)
-
+  ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/main/Images/Start.png?raw=true)
+  
+  Full App
+  
+  ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/main/Images/Full.png?raw=true)
+  
+   Search App
+  
+  ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/main/Images/Search.png?raw=true)
+  
 ## Installation
 
 In order to use this to it's full potential: Must have pyqt5 and python 3.9.6
