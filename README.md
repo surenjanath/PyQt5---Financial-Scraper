@@ -38,7 +38,7 @@ and open cmd .
 Run the following code : 
 
 ```
-pyinstaller --onefile --windowed --icon=app.ico [filename main].py
+pyinstaller --onefile --windowed --icon=app.ico main.py
 ```
 
 ## Troubleshooting & debugging
