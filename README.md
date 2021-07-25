@@ -5,7 +5,7 @@
 ## Links
 
 - You can clone it and use it at your own discretion
-- Please [open an issue](https://github.com/surenjanath/PyQt5---Financial-Scraper/issues/new) if anything is missing or unclear in this
+- Please [open an issue](https://github.com/surenjanath/PyQt5_Financial_Scraper/issues/new) if anything is missing or unclear in this
   documentation.
 
 ## Installation
