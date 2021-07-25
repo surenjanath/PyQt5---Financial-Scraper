@@ -29,7 +29,13 @@ To convert ui to py
 ```
 pyuic5 -x [ui file].ui -o [ui].py
 ```
-To convert .py to .exe
+## To convert .py to .exe
+Install pyinstaller 
+```pip install pyinstaller```
+
+Then navigate to [This folder](https://github.com/surenjanath/PyQt5_Financial_Scraper/Convert to EXE/)
+and open cmd .
+Run the following code : 
 
 ```
 pyinstaller --onefile --windowed --icon=app.ico [filename main].py
