@@ -10,8 +10,10 @@ This app created to view financial data given a search query of Nasdaq codes:
 
 ## Installation
 
-In order to use this to it's full potential, use pyqt5 and python 3.9.6
+In order to use this to it's full potential: Must have pyqt5 and python 3.9.6
+
 Using pyqt5-tools designer in cmd to execute the pyqt5 designer application to edit the UI file
+
 If you're looking at the code then it means that you're good at using python .: edit away.
 
 To execute program just type the following in cmd :
