@@ -1,7 +1,0 @@
-Convert ui to py : pyuic5 -x WelcomeScreen.ui -o WelcomeScreenUi.py
-add in these lines to main.py:
-self.setupUi(self)
-pass Ui_MainWindow to class
-comment self.loadUi()
-add library ui to py
-convert py to exe: pyinstaller.exe --onefile --windowed --icon=app.ico app.py
